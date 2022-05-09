@@ -1,4 +1,4 @@
-# test-2-LP3
+# Forme geometrice (clase,obiecte,erori)
 
 Creati 3 clase care sa contina:
 1. o clasa pe nume Punct care sa defineasca punctele de coordonate ale unui punct; creati un constructor si o metoda de afisare. (superclasa)
